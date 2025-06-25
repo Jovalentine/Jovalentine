@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francis Johan M</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate Software Developer and AI ML Engineer from India</h3>
 
 - 🌱 I’m currently learning **Microsoft Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jovalentine/portfolio](https://github.com/Jovalentine/portfolio)
+- 👨‍💻 All of my projects are available at https://github.com/Jovalentine?tab=repositories
 
 - 📫 How to reach me **joeseno040@gmail.com**
 
